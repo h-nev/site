@@ -1,0 +1,13 @@
+/* Project specific styling */
+.project-sidebar{
+    box-shadow: 8px 8px 10px #443e40;;
+    background-color: #6d595a;
+
+}
+
+.desc-dark{
+    font-family: Monsterrat;
+    font-size: large;
+    /* text-color: white; */
+    
+}
